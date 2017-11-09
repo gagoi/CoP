@@ -4,6 +4,7 @@ import static org.lwjgl.glfw.GLFW.*;
 import static org.lwjgl.opengl.GL11.*;
 
 import org.lwjgl.glfw.GLFWErrorCallback;
+
 import org.lwjgl.opengl.GL;
 
 public class Game {
